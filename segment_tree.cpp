@@ -58,8 +58,5 @@ int32_t main(){
         cin>>a[i];
     }
     build(1,1,n);
-    int l,r;
-    cin>>l>>r;
-    cout<<get(1,1,n,l,r);
     
 }
